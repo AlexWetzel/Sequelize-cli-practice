@@ -1,0 +1,25 @@
+{
+  "name": "sequelize-cli-practice",
+  "version": "1.0.0",
+  "description": "sequelize cli practice",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "sequelize": "^4.41.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexWetzel/Sequelize-cli-practice.git"
+  },
+  "author": "Alex Wetzel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexWetzel/Sequelize-cli-practice/issues"
+  },
+  "homepage": "https://github.com/AlexWetzel/Sequelize-cli-practice#readme"
+}
